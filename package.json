@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-scraper-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapers/bookstore/catalogue.js",
+  "scripts": {
+    "test": "nothing"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "cheerio": "^1.0.0-rc.12",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
